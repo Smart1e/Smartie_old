@@ -1,0 +1,13 @@
+--upgrade pip
+tqdm
+datetime
+gtts
+speechrecognition
+pyttsx3
+playsound2
+playsound
+requests
+pyserial
+PySimpleGUI
+pynput
+gitpython

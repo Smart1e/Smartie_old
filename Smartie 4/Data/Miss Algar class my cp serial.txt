@@ -1,0 +1,7 @@
+Name:
+	L2-28W10
+
+Serial:
+	90YQV02
+
+https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
